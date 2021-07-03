@@ -12,14 +12,6 @@ The process of execute script:
 `$python script_dev_realsense_yolo_v3_2d.py`
 The demo as link below:
 
-https://www.youtube.com/watch?v=gEab40Y46TM
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=https://www.youtube.com/watch?v=gEab40Y46TM)
-
-<iframe width="560" height="315"
-src="https://www.youtube.com/watch?v=gEab40Y46TM" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
-
-
 [![Running](https://github.com/dovanhuong/dev_realsense_yolo_v3_2d/blob/main/Capture.JPG)](https://www.youtube.com/watch?v=gEab40Y46TM "Running")
+
+Contact: vanhuong.robotics@gmail.com
