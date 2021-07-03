@@ -48,7 +48,7 @@ def getOutputsNames(net):
     layersNames = net.getLayerNames()
     return [layersNames[i[0] -1] for i in net.getUnconnectedOutLayers()]
 
-def drawPred(classId, conf, left, top, right, bottom, frame,depth_colormap):
+def drawPredicted(classId, conf, left, top, right, bottom, frame,depth_colormap):
     cv2.rectangle(frame, (left,top), (right,bottom), (255,178,50),3)
 
     label = '%.2f' % conf
@@ -60,7 +60,7 @@ def drawPred(classId, conf, left, top, right, bottom, frame,depth_colormap):
     cv2.rectangle(frame, (left,top-round(1.5*labelSize[1])), (left+round(1.5*labelSize[0]), top+baseLine), (255,0,255), cv2.FILLED)
     cv2.putText(frame, label,(left,top), cv2.FONT_HERSHEY_SIMPLEX,0.75,(0,0,0),1)
 
-def postprocess(frame, outs, depth_colormap):
+def process_detection(frame, outs, depth_colormap):
     frameHeight = frame.shape[0]
     frameWidth = frame.shape[1]
 
@@ -90,7 +90,7 @@ def postprocess(frame, outs, depth_colormap):
         top = box[1]
         width = box[2]
         height = box[3]
-        drawPred(classIds[i], confidences[i], left, top, left+width, top+height,frame,depth_colormap)
+        drawPredicted(classIds[i], confidences[i], left, top, left+width, top+height,frame,depth_colormap)
 
 if __name__ == "__main__":
     classes = None
@@ -121,8 +121,7 @@ if __name__ == "__main__":
             outs = net.forward(getOutputsNames(net))
             # Apply colormap on depth image (image must be converted to 8-bit per pixel first)
             depth_colormap = cv2.applyColorMap(cv2.convertScaleAbs(depth_image, alpha=0.03), cv2.COLORMAP_JET)
-            #print ("depth color map: ", depth_colormap.shape)
-            postprocess(color_image,outs,depth_colormap)
+            process_detection(color_image,outs,depth_colormap)
 
             depth_colormap_dim = depth_colormap.shape
             color_colormap_dim = color_image.shape
