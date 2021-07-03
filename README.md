@@ -22,4 +22,4 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen></iframe>
 
 
-[![Running](https://yt-embed.herokuapp.com/embed?v=StTqXEQ2l-Y)](https://www.youtube.com/watch?v=gEab40Y46TM "Running")
+[![Running](https://github.com/dovanhuong/dev_realsense_yolo_v3_2d/blob/main/Capture.JPG)](https://www.youtube.com/watch?v=gEab40Y46TM "Running")
