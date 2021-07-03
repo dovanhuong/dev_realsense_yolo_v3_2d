@@ -11,3 +11,4 @@ The process of execute script:
 5. Running the script with command.
 `$python script_dev_realsense_yolo_v3_2d.py`
 The demo as link below:
+https://youtu.be/gEab40Y46TM
