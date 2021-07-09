@@ -1,5 +1,5 @@
-# dev_realsense_yolo_v3_2D by Tony 
-The script for inference yolo model with camera Realsense D435 for object detection. 
+# dev_realsense_yolo_v3 by Tony 
+The script for inference yolo model with camera Realsense D435 for object detection and extract the depth information of the object. 
 The process of execute script: 
 1. Install Andaconda 
 2. Activate base environment inside anacoda with command:
@@ -13,6 +13,6 @@ The process of execute script:
 `$python script_dev_realsense_yolo_v3_2d.py`
 The demo as link below:
 
-[![Running](https://github.com/dovanhuong/dev_realsense_yolo_v3_2d/blob/main/Capture.JPG)](https://www.youtube.com/watch?v=gEab40Y46TM "Running")
+[![Running]](https://www.youtube.com/watch?v=gEab40Y46TM "Running")
 
 Contact: vanhuong.robotics@gmail.com
