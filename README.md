@@ -13,6 +13,6 @@ The process of execute script:
 `$python script_dev_realsense_yolo_v3_2d.py`
 The demo as link below:
 
-[!](https://www.youtube.com/watch?v=gEab40Y46TM "Running")
+[![](https://i9.ytimg.com/vi/gEab40Y46TM/mq3.jpg?sqp=CLiboIcG&rs=AOn4CLAd0wEvZvz8kGOsV-AJNh8Gk2ff5Q)](https://www.youtube.com/watch?v=gEab40Y46TM)
 
 Contact: vanhuong.robotics@gmail.com
