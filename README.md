@@ -17,14 +17,22 @@ The demo as link below:
 
 [![Object and Depth](https://i9.ytimg.com/vi/kPTFwuLaKCo/mq2.jpg?sqp=CNiVpIcG&rs=AOn4CLAgETZ0ho0fv5A-RzHvK3Heq5Acaw)](https://youtu.be/kPTFwuLaKCo)
 
+<br> Object detection demo
+<div align="center">
+      <a href="https://www.youtube.com/watch?v=gEab40Y46TM">
+     <img 
+      src="https://i9.ytimg.com/vi/gEab40Y46TM/mq3.jpg?sqp=CNiVpIcG&rs=AOn4CLBB1DNO9C4tbze6Mf1tsDpS2NGyuw" 
+      alt="Object detection" 
+      style="width:100%;">
+      </a>
+    </div>
 
-
-
+<br> Objects and depth information demo
 <div align="center">
       <a href="https://youtu.be/kPTFwuLaKCo">
      <img 
       src="https://i9.ytimg.com/vi/kPTFwuLaKCo/mq2.jpg?sqp=CNiVpIcG&rs=AOn4CLAgETZ0ho0fv5A-RzHvK3Heq5Acaw" 
-      alt="Everything Is AWESOME" 
+      alt="Object and Depth information" 
       style="width:100%;">
       </a>
     </div>
