@@ -17,4 +17,6 @@ The demo as link below:
 
 [![](https://i9.ytimg.com/vi/kPTFwuLaKCo/mq1.jpg?sqp=CJCgoIcG&rs=AOn4CLDl59_E2_su6Sy2EyutrP55ddO2Pw)](https://youtu.be/kPTFwuLaKCo)
 
+
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 Contact: vanhuong.robotics@gmail.com
