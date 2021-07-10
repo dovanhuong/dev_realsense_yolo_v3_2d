@@ -17,7 +17,7 @@ The demo as link below:
 
 [![Object and Depth](https://i9.ytimg.com/vi/kPTFwuLaKCo/mq2.jpg?sqp=CNiVpIcG&rs=AOn4CLAgETZ0ho0fv5A-RzHvK3Heq5Acaw)](https://youtu.be/kPTFwuLaKCo)
 
-<br> Object detection demo
+<br><b> Object detection demo</b>
 <div align="center">
       <a href="https://www.youtube.com/watch?v=gEab40Y46TM">
      <img 
@@ -25,9 +25,9 @@ The demo as link below:
       alt="Object detection" 
       style="width:100%;">
       </a>
-    </div>
+</div>
 
-<br> Objects and depth information demo
+<br><b> Objects and depth information demo</b>
 <div align="center">
       <a href="https://youtu.be/kPTFwuLaKCo">
      <img 
