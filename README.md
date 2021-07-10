@@ -15,8 +15,10 @@ The demo as link below:
 
 [![](https://i9.ytimg.com/vi/gEab40Y46TM/mq3.jpg?sqp=CLiboIcG&rs=AOn4CLAd0wEvZvz8kGOsV-AJNh8Gk2ff5Q)](https://www.youtube.com/watch?v=gEab40Y46TM)
 
-[![](https://i9.ytimg.com/vi/kPTFwuLaKCo/mq1.jpg?sqp=CJCgoIcG&rs=AOn4CLDl59_E2_su6Sy2EyutrP55ddO2Pw)](https://youtu.be/kPTFwuLaKCo)
+[![](https://i9.ytimg.com/vi/kPTFwuLaKCo/mq2.jpg?sqp=CNiVpIcG&rs=AOn4CLAgETZ0ho0fv5A-RzHvK3Heq5Acaw)](https://youtu.be/kPTFwuLaKCo)
 
 
 [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+
+
 Contact: vanhuong.robotics@gmail.com
