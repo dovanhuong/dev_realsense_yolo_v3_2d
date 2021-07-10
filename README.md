@@ -20,11 +20,14 @@ The demo as link below:
 
 
 
-<iframe width="560" height="315"
-src="https://youtu.be/kPTFwuLaKCo" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+<div align="center">
+      <a href="https://youtu.be/kPTFwuLaKCo">
+     <img 
+      src="https://i9.ytimg.com/vi/kPTFwuLaKCo/mq2.jpg?sqp=CNiVpIcG&rs=AOn4CLAgETZ0ho0fv5A-RzHvK3Heq5Acaw" 
+      alt="Everything Is AWESOME" 
+      style="width:100%;">
+      </a>
+    </div>
 
 
 Contact: vanhuong.robotics@gmail.com
