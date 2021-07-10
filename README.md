@@ -13,12 +13,11 @@ The process of execute script:
 `$python script_dev_realsense_yolo_v3_2d.py`
 The demo as link below:
 
-[![](https://i9.ytimg.com/vi/gEab40Y46TM/mq3.jpg?sqp=CLiboIcG&rs=AOn4CLAd0wEvZvz8kGOsV-AJNh8Gk2ff5Q)](https://www.youtube.com/watch?v=gEab40Y46TM)
+[![Object detect](https://i9.ytimg.com/vi/gEab40Y46TM/mq3.jpg?sqp=CNiVpIcG&rs=AOn4CLBB1DNO9C4tbze6Mf1tsDpS2NGyuw)](https://www.youtube.com/watch?v=gEab40Y46TM)
 
-[![](https://i9.ytimg.com/vi/kPTFwuLaKCo/mq2.jpg?sqp=CNiVpIcG&rs=AOn4CLAgETZ0ho0fv5A-RzHvK3Heq5Acaw)](https://youtu.be/kPTFwuLaKCo)
+[![Object and Depth](https://i9.ytimg.com/vi/kPTFwuLaKCo/mq2.jpg?sqp=CNiVpIcG&rs=AOn4CLAgETZ0ho0fv5A-RzHvK3Heq5Acaw)](https://youtu.be/kPTFwuLaKCo)
 
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
 
 Contact: vanhuong.robotics@gmail.com
