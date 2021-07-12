@@ -17,7 +17,7 @@ The demo as link below:
 <div align="center">
       <a href="https://www.youtube.com/watch?v=gEab40Y46TM">
      <img 
-      src="https://i9.ytimg.com/vi/gEab40Y46TM/mq3.jpg?sqp=CNiVpIcG&rs=AOn4CLBB1DNO9C4tbze6Mf1tsDpS2NGyuw" 
+      src="https://www.youtube.com/watch?v=gEab40Y46TM" 
       alt="Object detection" 
       style="width:100%;">
       </a>
