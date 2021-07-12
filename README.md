@@ -27,7 +27,7 @@ The demo as link below:
 <div align="center">
       <a href="https://youtu.be/kPTFwuLaKCo">
      <img 
-      src="https://i9.ytimg.com/vi/kPTFwuLaKCo/mq2.jpg?sqp=CNiVpIcG&rs=AOn4CLAgETZ0ho0fv5A-RzHvK3Heq5Acaw" 
+      src="https://i9.ytimg.com/vi/kPTFwuLaKCo/mq2.jpg?sqp=CLyqrocG&rs=AOn4CLD6U0nKihFF3L6tTZMi-EpQ0kjWmg" 
       alt="Object and Depth information" 
       style="width:100%;">
       </a>
