@@ -17,7 +17,7 @@ The demo as link below:
 <div align="center">
       <a href="https://www.youtube.com/watch?v=gEab40Y46TM">
      <img 
-      src="https://i9.ytimg.com/vi/gEab40Y46TM/mq3.jpg?sqp=CLyqrocG&rs=AOn4CLD4FCAm9WBsZTxDceozn9tsSTIiAw" 
+      src="https://github.com/dovanhuong/dev_realsense_yolo_v3_2d/blob/main/mq3.jpg" 
       alt="Object detection" 
       style="width:100%;">
       </a>
@@ -27,7 +27,7 @@ The demo as link below:
 <div align="center">
       <a href="https://youtu.be/kPTFwuLaKCo">
      <img 
-      src="https://i9.ytimg.com/vi/kPTFwuLaKCo/mq2.jpg?sqp=CLyqrocG&rs=AOn4CLD6U0nKihFF3L6tTZMi-EpQ0kjWmg" 
+      src="https://github.com/dovanhuong/dev_realsense_yolo_v3_2d/blob/main/mq2.jpg" 
       alt="Object and Depth information" 
       style="width:100%;">
       </a>
